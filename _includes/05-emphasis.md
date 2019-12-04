@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an _armateur photographer_. I love __high tech stuf__. I like to travel and play chess and card games. I am an inventor. 
